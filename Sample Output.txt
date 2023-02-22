@@ -1,0 +1,875 @@
+The following shows the stats for inputted player 'seth' against all their opponents. "Average game index" approximates how late into the season two players have played. A higher index corresponds to more recently played games. The elo used is the raw elo from the spreadsheet, not the elo from the leaderboards. A positive elo differential means seth had the higher average elo when playing against their opponent. A negative elo differential would mean the opposite. The same is true for total run differential. 
+
+
+The current average index is 1296
+
+seth has played RuckusTheory 29 times and has won 51.72% (15 out of 29)
+seth's first match against RuckusTheory was on Nov/20/2022 at 17:07:34 and their most recent game was on Feb/02/2023 at 16:36:23
+The average game index is: 1114.31
+seth's average elo when playing RuckusTheory: 1571.89
+RuckusTheory's average elo when playing seth: 1497.34
+Average Elo Differential: 74.5471
+seth averages 4.897 runs per game (142 total)
+RuckusTheory averages 3.931 runs per game (114 total)
+Total Run Differential: 28
+
+seth has played BEAR 22 times and has won 68.18% (15 out of 22)
+seth's first match against BEAR was on Nov/20/2022 at 18:49:11 and their most recent game was on Feb/04/2023 at 14:38:27
+The average game index is: 1012.18
+seth's average elo when playing BEAR: 1543.22
+BEAR's average elo when playing seth: 1432.29
+Average Elo Differential: 110.928
+seth averages 6.818 runs per game (150 total)
+BEAR averages 4.864 runs per game (107 total)
+Total Run Differential: 43
+
+seth has played hunter002_ 14 times and has won 42.86% (6 out of 14)
+seth's first match against hunter002_ was on Nov/20/2022 at 19:20:24 and their most recent game was on Feb/11/2023 at 00:08:10
+The average game index is: 1545.43
+seth's average elo when playing hunter002_: 1691.15
+hunter002_'s average elo when playing seth: 1783.63
+Average Elo Differential: -92.4817
+seth averages 6.214 runs per game (87 total)
+hunter002_ averages 7.143 runs per game (100 total)
+Total Run Differential: -13
+
+seth has played Pokebunny 17 times and has won 17.65% (3 out of 17)
+seth's first match against Pokebunny was on Nov/20/2022 at 20:30:25 and their most recent game was on Feb/14/2023 at 00:31:41
+The average game index is: 1188.76
+seth's average elo when playing Pokebunny: 1572.53
+Pokebunny's average elo when playing seth: 1811.58
+Average Elo Differential: -239.047
+seth averages 3.471 runs per game (59 total)
+Pokebunny averages 7.294 runs per game (124 total)
+Total Run Differential: -65
+
+seth has played duckydonne 14 times and has won 71.43% (10 out of 14)
+seth's first match against duckydonne was on Nov/20/2022 at 21:11:13 and their most recent game was on Jan/28/2023 at 15:21:39
+The average game index is: 1238.21
+seth's average elo when playing duckydonne: 1607.58
+duckydonne's average elo when playing seth: 1429.26
+Average Elo Differential: 178.32
+seth averages 8.286 runs per game (116 total)
+duckydonne averages 4.143 runs per game (58 total)
+Total Run Differential: 58
+
+seth has played hellzhero 3 times and has won 33.33% (1 out of 3)
+seth's first match against hellzhero was on Nov/20/2022 at 21:40:16 and their most recent game was on Feb/08/2023 at 22:18:47
+The average game index is: 1571.33
+seth's average elo when playing hellzhero: 1666.89
+hellzhero's average elo when playing seth: 1799.28
+Average Elo Differential: -132.386
+seth averages 1 runs per game (3 total)
+hellzhero averages 8.667 runs per game (26 total)
+Total Run Differential: -23
+
+seth has played CornBoy 7 times and has won 28.57% (2 out of 7)
+seth's first match against CornBoy was on Nov/20/2022 at 22:14:51 and their most recent game was on Dec/02/2022 at 20:19:01
+The average game index is: 228.571
+seth's average elo when playing CornBoy: 1351.36
+CornBoy's average elo when playing seth: 1374.11
+Average Elo Differential: -22.745
+seth averages 3.429 runs per game (24 total)
+CornBoy averages 5.714 runs per game (40 total)
+Total Run Differential: -16
+
+seth has played Quoise 1 times and has won 100% (1 out of 1)
+seth's first match against Quoise was on Nov/20/2022 at 22:53:36 and their most recent game was on Nov/20/2022 at 22:53:36
+The average game index is: 35
+seth's average elo when playing Quoise: 1415.83
+Quoise's average elo when playing seth: 1292.97
+Average Elo Differential: 122.861
+seth averages 3 runs per game (3 total)
+Quoise averages 0 runs per game (0 total)
+Total Run Differential: 3
+
+seth has played kangarus 1 times and has won 100% (1 out of 1)
+seth's first match against kangarus was on Nov/21/2022 at 00:32:24 and their most recent game was on Nov/21/2022 at 00:32:24
+The average game index is: 42
+seth's average elo when playing kangarus: 1475.46
+kangarus's average elo when playing seth: 1399.66
+Average Elo Differential: 75.796
+seth averages 14 runs per game (14 total)
+kangarus averages 6 runs per game (6 total)
+Total Run Differential: 8
+
+seth has played JustAGrump 4 times and has won 50% (2 out of 4)
+seth's first match against JustAGrump was on Nov/21/2022 at 01:24:49 and their most recent game was on Feb/17/2023 at 01:50:25
+The average game index is: 1146.75
+seth's average elo when playing JustAGrump: 1641.62
+JustAGrump's average elo when playing seth: 1542.15
+Average Elo Differential: 99.4653
+seth averages 6.25 runs per game (25 total)
+JustAGrump averages 3.75 runs per game (15 total)
+Total Run Differential: 10
+
+seth has played legendarybolt 36 times and has won 50% (18 out of 36)
+seth's first match against legendarybolt was on Nov/21/2022 at 20:52:19 and their most recent game was on Feb/08/2023 at 23:16:38
+The average game index is: 1487.56
+seth's average elo when playing legendarybolt: 1660
+legendarybolt's average elo when playing seth: 1721.13
+Average Elo Differential: -61.1305
+seth averages 6.417 runs per game (231 total)
+legendarybolt averages 6.667 runs per game (240 total)
+Total Run Differential: -9
+
+seth has played shobbs001 20 times and has won 20% (4 out of 20)
+seth's first match against shobbs001 was on Nov/21/2022 at 22:22:39 and their most recent game was on Jan/29/2023 at 21:46:11
+The average game index is: 1342.7
+seth's average elo when playing shobbs001: 1628.08
+shobbs001's average elo when playing seth: 1747.48
+Average Elo Differential: -119.4
+seth averages 4.8 runs per game (96 total)
+shobbs001 averages 8.9 runs per game (178 total)
+Total Run Differential: -82
+
+seth has played AJ3961 10 times and has won 50% (5 out of 10)
+seth's first match against AJ3961 was on Nov/21/2022 at 23:20:33 and their most recent game was on Jan/18/2023 at 16:34:50
+The average game index is: 985.9
+seth's average elo when playing AJ3961: 1564.62
+AJ3961's average elo when playing seth: 1684.28
+Average Elo Differential: -119.654
+seth averages 4.7 runs per game (47 total)
+AJ3961 averages 5.1 runs per game (51 total)
+Total Run Differential: -4
+
+seth has played Matt 17 times and has won 64.71% (11 out of 17)
+seth's first match against Matt was on Nov/22/2022 at 00:14:08 and their most recent game was on Jan/22/2023 at 22:16:28
+The average game index is: 1243.88
+seth's average elo when playing Matt: 1605.35
+Matt's average elo when playing seth: 1569.39
+Average Elo Differential: 35.9616
+seth averages 6.588 runs per game (112 total)
+Matt averages 5.588 runs per game (95 total)
+Total Run Differential: 17
+
+seth has played Clutch1908 7 times and has won 42.86% (3 out of 7)
+seth's first match against Clutch1908 was on Nov/22/2022 at 15:10:36 and their most recent game was on Feb/11/2023 at 15:58:54
+The average game index is: 1302
+seth's average elo when playing Clutch1908: 1597.84
+Clutch1908's average elo when playing seth: 1783.66
+Average Elo Differential: -185.825
+seth averages 5.429 runs per game (38 total)
+Clutch1908 averages 4.857 runs per game (34 total)
+Total Run Differential: 4
+
+seth has played HowieHour 3 times and has won 100% (3 out of 3)
+seth's first match against HowieHour was on Nov/22/2022 at 15:41:21 and their most recent game was on Dec/09/2022 at 16:37:37
+The average game index is: 468
+seth's average elo when playing HowieHour: 1422.22
+HowieHour's average elo when playing seth: 1327.99
+Average Elo Differential: 94.2307
+seth averages 8.333 runs per game (25 total)
+HowieHour averages 2.333 runs per game (7 total)
+Total Run Differential: 18
+
+seth has played BeefyMiniQuesadillas 1 times and has won 0% (0 out of 1)
+seth's first match against BeefyMiniQuesadillas was on Nov/22/2022 at 16:21:57 and their most recent game was on Nov/22/2022 at 16:21:57
+The average game index is: 108
+seth's average elo when playing BeefyMiniQuesadillas: 1368.87
+BeefyMiniQuesadillas's average elo when playing seth: 1379.24
+Average Elo Differential: -10.37
+seth averages 5 runs per game (5 total)
+BeefyMiniQuesadillas averages 9 runs per game (9 total)
+Total Run Differential: -4
+
+seth has played BMills7 15 times and has won 46.67% (7 out of 15)
+seth's first match against BMills7 was on Nov/22/2022 at 16:58:07 and their most recent game was on Feb/13/2023 at 01:32:20
+The average game index is: 1071.4
+seth's average elo when playing BMills7: 1557.66
+BMills7's average elo when playing seth: 1548.4
+Average Elo Differential: 9.26826
+seth averages 6.467 runs per game (97 total)
+BMills7 averages 5.867 runs per game (88 total)
+Total Run Differential: 9
+
+seth has played Super63 35 times and has won 54.29% (19 out of 35)
+seth's first match against Super63 was on Nov/22/2022 at 20:46:02 and their most recent game was on Feb/20/2023 at 20:47:32
+The average game index is: 2032.17
+seth's average elo when playing Super63: 1781.02
+Super63's average elo when playing seth: 1817.51
+Average Elo Differential: -36.4948
+seth averages 6.086 runs per game (213 total)
+Super63 averages 5.686 runs per game (199 total)
+Total Run Differential: 14
+
+seth has played faceman 10 times and has won 50% (5 out of 10)
+seth's first match against faceman was on Nov/23/2022 at 17:46:30 and their most recent game was on Feb/21/2023 at 02:00:37
+The average game index is: 1651.2
+seth's average elo when playing faceman: 1708.05
+faceman's average elo when playing seth: 1746.47
+Average Elo Differential: -38.4242
+seth averages 7.3 runs per game (73 total)
+faceman averages 7.7 runs per game (77 total)
+Total Run Differential: -4
+
+seth has played EddieO 1 times and has won 100% (1 out of 1)
+seth's first match against EddieO was on Nov/23/2022 at 22:09:52 and their most recent game was on Nov/23/2022 at 22:09:52
+The average game index is: 167
+seth's average elo when playing EddieO: 1309.42
+EddieO's average elo when playing seth: 1246.06
+Average Elo Differential: 63.3588
+seth averages 10 runs per game (10 total)
+EddieO averages 0 runs per game (0 total)
+Total Run Differential: 10
+
+seth has played FullCount 6 times and has won 66.67% (4 out of 6)
+seth's first match against FullCount was on Nov/23/2022 at 22:41:40 and their most recent game was on Nov/29/2022 at 22:50:07
+The average game index is: 244.167
+seth's average elo when playing FullCount: 1296.39
+FullCount's average elo when playing seth: 1192.31
+Average Elo Differential: 104.073
+seth averages 4.5 runs per game (27 total)
+FullCount averages 3.667 runs per game (22 total)
+Total Run Differential: 5
+
+seth has played sneeky 3 times and has won 100% (3 out of 3)
+seth's first match against sneeky was on Nov/24/2022 at 02:06:11 and their most recent game was on Dec/08/2022 at 23:40:45
+The average game index is: 563
+seth's average elo when playing sneeky: 1447.41
+sneeky's average elo when playing seth: 1485.17
+Average Elo Differential: -37.7648
+seth averages 5.333 runs per game (16 total)
+sneeky averages 2.333 runs per game (7 total)
+Total Run Differential: 9
+
+seth has played BigNick 7 times and has won 28.57% (2 out of 7)
+seth's first match against BigNick was on Nov/24/2022 at 22:25:59 and their most recent game was on Dec/29/2022 at 23:22:12
+The average game index is: 938.286
+seth's average elo when playing BigNick: 1508.78
+BigNick's average elo when playing seth: 1759.11
+Average Elo Differential: -250.332
+seth averages 3.429 runs per game (24 total)
+BigNick averages 6 runs per game (42 total)
+Total Run Differential: -18
+
+seth has played Bj1447594 5 times and has won 40% (2 out of 5)
+seth's first match against Bj1447594 was on Nov/24/2022 at 23:26:24 and their most recent game was on Jan/12/2023 at 17:25:27
+The average game index is: 922.2
+seth's average elo when playing Bj1447594: 1498.54
+Bj1447594's average elo when playing seth: 1460.4
+Average Elo Differential: 38.1464
+seth averages 6.8 runs per game (34 total)
+Bj1447594 averages 7 runs per game (35 total)
+Total Run Differential: -1
+
+seth has played Cardinal J 3 times and has won 100% (3 out of 3)
+seth's first match against Cardinal J was on Nov/25/2022 at 15:52:46 and their most recent game was on Nov/26/2022 at 18:52:09
+The average game index is: 231
+seth's average elo when playing Cardinal J: 1294.69
+Cardinal J's average elo when playing seth: 1150.94
+Average Elo Differential: 143.751
+seth averages 8.333 runs per game (25 total)
+Cardinal J averages 1 runs per game (3 total)
+Total Run Differential: 22
+
+seth has played Colby2D 14 times and has won 64.29% (9 out of 14)
+seth's first match against Colby2D was on Nov/25/2022 at 16:28:22 and their most recent game was on Dec/26/2022 at 21:40:31
+The average game index is: 956.786
+seth's average elo when playing Colby2D: 1532.43
+Colby2D's average elo when playing seth: 1531.67
+Average Elo Differential: 0.759899
+seth averages 8.429 runs per game (118 total)
+Colby2D averages 5 runs per game (70 total)
+Total Run Differential: 48
+
+seth has played jacre22 6 times and has won 66.67% (4 out of 6)
+seth's first match against jacre22 was on Nov/25/2022 at 16:58:09 and their most recent game was on Dec/11/2022 at 23:29:09
+The average game index is: 659.833
+seth's average elo when playing jacre22: 1471.82
+jacre22's average elo when playing seth: 1384.69
+Average Elo Differential: 87.1273
+seth averages 9 runs per game (54 total)
+jacre22 averages 3.833 runs per game (23 total)
+Total Run Differential: 31
+
+seth has played Cézarito 8 times and has won 25% (2 out of 8)
+seth's first match against Cézarito was on Nov/26/2022 at 15:30:44 and their most recent game was on Jan/30/2023 at 01:54:24
+The average game index is: 1454.25
+seth's average elo when playing Cézarito: 1635.67
+Cézarito's average elo when playing seth: 1898.21
+Average Elo Differential: -262.545
+seth averages 6.875 runs per game (55 total)
+Cézarito averages 12 runs per game (96 total)
+Total Run Differential: -41
+
+seth has played Ahhh Timothy 1 times and has won 100% (1 out of 1)
+seth's first match against Ahhh Timothy was on Nov/26/2022 at 15:39:24 and their most recent game was on Nov/26/2022 at 15:39:24
+The average game index is: 249
+seth's average elo when playing Ahhh Timothy: 1289.08
+Ahhh Timothy's average elo when playing seth: 1233.98
+Average Elo Differential: 55.0919
+seth averages 14 runs per game (14 total)
+Ahhh Timothy averages 4 runs per game (4 total)
+Total Run Differential: 10
+
+seth has played remkey 16 times and has won 12.5% (2 out of 16)
+seth's first match against remkey was on Nov/26/2022 at 22:38:17 and their most recent game was on Feb/20/2023 at 21:21:11
+The average game index is: 1500.56
+seth's average elo when playing remkey: 1645.3
+remkey's average elo when playing seth: 2136.8
+Average Elo Differential: -491.502
+seth averages 3.438 runs per game (55 total)
+remkey averages 9.75 runs per game (156 total)
+Total Run Differential: -101
+
+seth has played antoniogr98 5 times and has won 100% (5 out of 5)
+seth's first match against antoniogr98 was on Nov/27/2022 at 00:23:00 and their most recent game was on Dec/22/2022 at 17:05:07
+The average game index is: 745.4
+seth's average elo when playing antoniogr98: 1459.87
+antoniogr98's average elo when playing seth: 1186.53
+Average Elo Differential: 273.339
+seth averages 7.6 runs per game (38 total)
+antoniogr98 averages 0.8 runs per game (4 total)
+Total Run Differential: 34
+
+seth has played BarneyBlaster 11 times and has won 63.64% (7 out of 11)
+seth's first match against BarneyBlaster was on Nov/27/2022 at 01:42:50 and their most recent game was on Feb/11/2023 at 15:26:19
+The average game index is: 1365.36
+seth's average elo when playing BarneyBlaster: 1593.22
+BarneyBlaster's average elo when playing seth: 1425.03
+Average Elo Differential: 168.19
+seth averages 7.636 runs per game (84 total)
+BarneyBlaster averages 3.636 runs per game (40 total)
+Total Run Differential: 44
+
+seth has played heckaroni 10 times and has won 50% (5 out of 10)
+seth's first match against heckaroni was on Nov/27/2022 at 23:42:05 and their most recent game was on Feb/11/2023 at 17:06:58
+The average game index is: 1055.5
+seth's average elo when playing heckaroni: 1555.63
+heckaroni's average elo when playing seth: 1493.55
+Average Elo Differential: 62.0839
+seth averages 7 runs per game (70 total)
+heckaroni averages 7.7 runs per game (77 total)
+Total Run Differential: -7
+
+seth has played Sam N 23 times and has won 56.52% (13 out of 23)
+seth's first match against Sam N was on Nov/28/2022 at 01:02:02 and their most recent game was on Feb/18/2023 at 17:48:32
+The average game index is: 1841
+seth's average elo when playing Sam N: 1737.66
+Sam N's average elo when playing seth: 1719.33
+Average Elo Differential: 18.3363
+seth averages 6.609 runs per game (152 total)
+Sam N averages 5.565 runs per game (128 total)
+Total Run Differential: 24
+
+seth has played Orion 8 times and has won 62.5% (5 out of 8)
+seth's first match against Orion was on Nov/28/2022 at 23:20:17 and their most recent game was on Jan/15/2023 at 14:45:35
+The average game index is: 1321.62
+seth's average elo when playing Orion: 1593.51
+Orion's average elo when playing seth: 1471.29
+Average Elo Differential: 122.217
+seth averages 7.5 runs per game (60 total)
+Orion averages 6.25 runs per game (50 total)
+Total Run Differential: 10
+
+seth has played JakesterIX 2 times and has won 100% (2 out of 2)
+seth's first match against JakesterIX was on Nov/29/2022 at 02:01:15 and their most recent game was on Dec/22/2022 at 03:11:00
+The average game index is: 868.5
+seth's average elo when playing JakesterIX: 1437.77
+JakesterIX's average elo when playing seth: 1222.04
+Average Elo Differential: 215.732
+seth averages 7 runs per game (14 total)
+JakesterIX averages 1 runs per game (2 total)
+Total Run Differential: 12
+
+seth has played HairyDixon 5 times and has won 100% (5 out of 5)
+seth's first match against HairyDixon was on Nov/29/2022 at 23:27:14 and their most recent game was on Jan/21/2023 at 23:40:33
+The average game index is: 1259.8
+seth's average elo when playing HairyDixon: 1606.5
+HairyDixon's average elo when playing seth: 1332.95
+Average Elo Differential: 273.558
+seth averages 9.6 runs per game (48 total)
+HairyDixon averages 1.4 runs per game (7 total)
+Total Run Differential: 41
+
+seth has played Connor Knott CUW🐦 1 times and has won 100% (1 out of 1)
+seth's first match against Connor Knott CUW🐦 was on Nov/30/2022 at 01:45:57 and their most recent game was on Nov/30/2022 at 01:45:57
+The average game index is: 426
+seth's average elo when playing Connor Knott CUW🐦: 1370.19
+Connor Knott CUW🐦's average elo when playing seth: 1202.26
+Average Elo Differential: 167.924
+seth averages 10 runs per game (10 total)
+Connor Knott CUW🐦 averages 3 runs per game (3 total)
+Total Run Differential: 7
+
+seth has played sleepywitch 2 times and has won 100% (2 out of 2)
+seth's first match against sleepywitch was on Nov/30/2022 at 22:32:09 and their most recent game was on Jan/29/2023 at 15:32:51
+The average game index is: 1266
+seth's average elo when playing sleepywitch: 1593.39
+sleepywitch's average elo when playing seth: 1301.06
+Average Elo Differential: 292.327
+seth averages 13 runs per game (26 total)
+sleepywitch averages 0.5 runs per game (1 total)
+Total Run Differential: 25
+
+seth has played Lordic 2 times and has won 100% (2 out of 2)
+seth's first match against Lordic was on Nov/30/2022 at 22:59:05 and their most recent game was on Dec/02/2022 at 00:21:51
+The average game index is: 494.5
+seth's average elo when playing Lordic: 1409.7
+Lordic's average elo when playing seth: 1237.61
+Average Elo Differential: 172.089
+seth averages 13 runs per game (26 total)
+Lordic averages 3 runs per game (6 total)
+Total Run Differential: 20
+
+seth has played buffcat70 7 times and has won 85.71% (6 out of 7)
+seth's first match against buffcat70 was on Dec/01/2022 at 22:52:48 and their most recent game was on Feb/08/2023 at 19:21:59
+The average game index is: 1268.86
+seth's average elo when playing buffcat70: 1613.88
+buffcat70's average elo when playing seth: 1357.17
+Average Elo Differential: 256.713
+seth averages 7.714 runs per game (54 total)
+buffcat70 averages 1.429 runs per game (10 total)
+Total Run Differential: 44
+
+seth has played wtbennjamin 🎖 4 times and has won 75% (3 out of 4)
+seth's first match against wtbennjamin 🎖 was on Dec/02/2022 at 15:37:06 and their most recent game was on Dec/14/2022 at 23:15:36
+The average game index is: 716.75
+seth's average elo when playing wtbennjamin 🎖: 1496.2
+wtbennjamin 🎖's average elo when playing seth: 1408.77
+Average Elo Differential: 87.4226
+seth averages 8.5 runs per game (34 total)
+wtbennjamin 🎖 averages 4.25 runs per game (17 total)
+Total Run Differential: 17
+
+seth has played ViVi 6 times and has won 50% (3 out of 6)
+seth's first match against ViVi was on Dec/02/2022 at 17:19:14 and their most recent game was on Jan/15/2023 at 16:35:27
+The average game index is: 1257.17
+seth's average elo when playing ViVi: 1601.45
+ViVi's average elo when playing seth: 1755.48
+Average Elo Differential: -154.022
+seth averages 6.667 runs per game (40 total)
+ViVi averages 6 runs per game (36 total)
+Total Run Differential: 4
+
+seth has played Exeloar 1 times and has won 100% (1 out of 1)
+seth's first match against Exeloar was on Dec/02/2022 at 17:46:02 and their most recent game was on Dec/02/2022 at 17:46:02
+The average game index is: 550
+seth's average elo when playing Exeloar: 1413.98
+Exeloar's average elo when playing seth: 1328.71
+Average Elo Differential: 85.2751
+seth averages 8 runs per game (8 total)
+Exeloar averages 3 runs per game (3 total)
+Total Run Differential: 5
+
+seth has played Wheels 15 times and has won 53.33% (8 out of 15)
+seth's first match against Wheels was on Dec/02/2022 at 21:55:04 and their most recent game was on Feb/05/2023 at 14:31:49
+The average game index is: 1660.27
+seth's average elo when playing Wheels: 1676.02
+Wheels's average elo when playing seth: 1611.74
+Average Elo Differential: 64.2758
+seth averages 6.467 runs per game (97 total)
+Wheels averages 5.467 runs per game (82 total)
+Total Run Differential: 15
+
+seth has played Tgibby45 2 times and has won 100% (2 out of 2)
+seth's first match against Tgibby45 was on Dec/02/2022 at 23:21:49 and their most recent game was on Dec/18/2022 at 22:41:39
+The average game index is: 910.5
+seth's average elo when playing Tgibby45: 1519.55
+Tgibby45's average elo when playing seth: 1302.8
+Average Elo Differential: 216.746
+seth averages 5.5 runs per game (11 total)
+Tgibby45 averages 0.5 runs per game (1 total)
+Total Run Differential: 10
+
+seth has played bennyokay 24 times and has won 75% (18 out of 24)
+seth's first match against bennyokay was on Dec/03/2022 at 15:35:21 and their most recent game was on Feb/12/2023 at 17:30:46
+The average game index is: 1495.12
+seth's average elo when playing bennyokay: 1644.45
+bennyokay's average elo when playing seth: 1522.02
+Average Elo Differential: 122.425
+seth averages 8 runs per game (192 total)
+bennyokay averages 4.875 runs per game (117 total)
+Total Run Differential: 75
+
+seth has played DaJoeMyster 5 times and has won 100% (5 out of 5)
+seth's first match against DaJoeMyster was on Dec/04/2022 at 23:32:50 and their most recent game was on Feb/02/2023 at 00:17:58
+The average game index is: 1044.6
+seth's average elo when playing DaJoeMyster: 1581.35
+DaJoeMyster's average elo when playing seth: 1129.06
+Average Elo Differential: 452.289
+seth averages 9.6 runs per game (48 total)
+DaJoeMyster averages 3.8 runs per game (19 total)
+Total Run Differential: 29
+
+seth has played MORI 3 times and has won 66.67% (2 out of 3)
+seth's first match against MORI was on Dec/05/2022 at 01:06:53 and their most recent game was on Feb/21/2023 at 00:40:23
+The average game index is: 1949.67
+seth's average elo when playing MORI: 1768.19
+MORI's average elo when playing seth: 1852.96
+Average Elo Differential: -84.7696
+seth averages 7.333 runs per game (22 total)
+MORI averages 4 runs per game (12 total)
+Total Run Differential: 10
+
+seth has played MutedAssassin 3 times and has won 0% (0 out of 3)
+seth's first match against MutedAssassin was on Dec/07/2022 at 01:39:12 and their most recent game was on Feb/02/2023 at 18:57:49
+The average game index is: 1713.67
+seth's average elo when playing MutedAssassin: 1707.06
+MutedAssassin's average elo when playing seth: 1758.72
+Average Elo Differential: -51.6646
+seth averages 5.333 runs per game (16 total)
+MutedAssassin averages 9 runs per game (27 total)
+Total Run Differential: -11
+
+seth has played TBling The Milkman 3 times and has won 33.33% (1 out of 3)
+seth's first match against TBling The Milkman was on Dec/08/2022 at 00:26:00 and their most recent game was on Jan/30/2023 at 23:29:29
+The average game index is: 1284
+seth's average elo when playing TBling The Milkman: 1624.52
+TBling The Milkman's average elo when playing seth: 1609.31
+Average Elo Differential: 15.216
+seth averages 6 runs per game (18 total)
+TBling The Milkman averages 7 runs per game (21 total)
+Total Run Differential: -3
+
+seth has played BryanH888 1 times and has won 0% (0 out of 1)
+seth's first match against BryanH888 was on Dec/08/2022 at 17:09:00 and their most recent game was on Dec/08/2022 at 17:09:00
+The average game index is: 865
+seth's average elo when playing BryanH888: 1534.57
+BryanH888's average elo when playing seth: 1426.47
+Average Elo Differential: 108.097
+seth averages 1 runs per game (1 total)
+BryanH888 averages 5 runs per game (5 total)
+Total Run Differential: -4
+
+seth has played Blazethh 4 times and has won 25% (1 out of 4)
+seth's first match against Blazethh was on Dec/08/2022 at 17:46:28 and their most recent game was on Dec/13/2022 at 22:16:06
+The average game index is: 942.5
+seth's average elo when playing Blazethh: 1562.3
+Blazethh's average elo when playing seth: 1763.05
+Average Elo Differential: -200.748
+seth averages 6.25 runs per game (25 total)
+Blazethh averages 9 runs per game (36 total)
+Total Run Differential: -11
+
+seth has played VicklessFalcon 1 times and has won 0% (0 out of 1)
+seth's first match against VicklessFalcon was on Dec/09/2022 at 17:53:23 and their most recent game was on Dec/09/2022 at 17:53:23
+The average game index is: 913
+seth's average elo when playing VicklessFalcon: 1512.32
+VicklessFalcon's average elo when playing seth: 1810.77
+Average Elo Differential: -298.444
+seth averages 0 runs per game (0 total)
+VicklessFalcon averages 10 runs per game (10 total)
+Total Run Differential: -10
+
+seth has played JoeyBrickz 1 times and has won 100% (1 out of 1)
+seth's first match against JoeyBrickz was on Dec/09/2022 at 19:58:07 and their most recent game was on Dec/09/2022 at 19:58:07
+The average game index is: 917
+seth's average elo when playing JoeyBrickz: 1515.39
+JoeyBrickz's average elo when playing seth: 1142.59
+Average Elo Differential: 372.806
+seth averages 6 runs per game (6 total)
+JoeyBrickz averages 4 runs per game (4 total)
+Total Run Differential: 2
+
+seth has played Stuffed Flatbread 2 times and has won 0% (0 out of 2)
+seth's first match against Stuffed Flatbread was on Dec/09/2022 at 22:23:00 and their most recent game was on Dec/20/2022 at 15:39:13
+The average game index is: 1108
+seth's average elo when playing Stuffed Flatbread: 1570.23
+Stuffed Flatbread's average elo when playing seth: 1911.96
+Average Elo Differential: -341.729
+seth averages 2 runs per game (4 total)
+Stuffed Flatbread averages 7.5 runs per game (15 total)
+Total Run Differential: -11
+
+seth has played Baltor33 1 times and has won 100% (1 out of 1)
+seth's first match against Baltor33 was on Dec/12/2022 at 15:09:02 and their most recent game was on Dec/12/2022 at 15:09:02
+The average game index is: 1028
+seth's average elo when playing Baltor33: 1626.37
+Baltor33's average elo when playing seth: 1378.74
+Average Elo Differential: 247.627
+seth averages 5 runs per game (5 total)
+Baltor33 averages 4 runs per game (4 total)
+Total Run Differential: 1
+
+seth has played TK 10 times and has won 50% (5 out of 10)
+seth's first match against TK was on Dec/13/2022 at 21:27:36 and their most recent game was on Feb/21/2023 at 01:21:44
+The average game index is: 1601.8
+seth's average elo when playing TK: 1649.38
+TK's average elo when playing seth: 1545.51
+Average Elo Differential: 103.873
+seth averages 6.5 runs per game (65 total)
+TK averages 5.6 runs per game (56 total)
+Total Run Differential: 9
+
+seth has played MetALz 2 times and has won 100% (2 out of 2)
+seth's first match against MetALz was on Dec/13/2022 at 21:49:04 and their most recent game was on Dec/21/2022 at 21:35:20
+The average game index is: 1211.5
+seth's average elo when playing MetALz: 1561.45
+MetALz's average elo when playing seth: 1035.7
+Average Elo Differential: 525.753
+seth averages 11.5 runs per game (23 total)
+MetALz averages 0 runs per game (0 total)
+Total Run Differential: 23
+
+seth has played DaShmutz 1 times and has won 0% (0 out of 1)
+seth's first match against DaShmutz was on Dec/14/2022 at 00:34:54 and their most recent game was on Dec/14/2022 at 00:34:54
+The average game index is: 1087
+seth's average elo when playing DaShmutz: 1608.24
+DaShmutz's average elo when playing seth: 1762.82
+Average Elo Differential: -154.585
+seth averages 4 runs per game (4 total)
+DaShmutz averages 8 runs per game (8 total)
+Total Run Differential: -4
+
+seth has played Jimmy Outlaw 1 times and has won 100% (1 out of 1)
+seth's first match against Jimmy Outlaw was on Dec/15/2022 at 00:45:22 and their most recent game was on Dec/15/2022 at 00:45:22
+The average game index is: 1116
+seth's average elo when playing Jimmy Outlaw: 1636.87
+Jimmy Outlaw's average elo when playing seth: 1303.61
+Average Elo Differential: 333.266
+seth averages 11 runs per game (11 total)
+Jimmy Outlaw averages 0 runs per game (0 total)
+Total Run Differential: 11
+
+seth has played IcesSpices 2 times and has won 100% (2 out of 2)
+seth's first match against IcesSpices was on Dec/15/2022 at 16:54:38 and their most recent game was on Dec/15/2022 at 22:49:40
+The average game index is: 1136
+seth's average elo when playing IcesSpices: 1621.01
+IcesSpices's average elo when playing seth: 1309.23
+Average Elo Differential: 311.777
+seth averages 10.5 runs per game (21 total)
+IcesSpices averages 4 runs per game (8 total)
+Total Run Differential: 13
+
+seth has played chrisdoesit 3 times and has won 100% (3 out of 3)
+seth's first match against chrisdoesit was on Dec/16/2022 at 16:17:10 and their most recent game was on Dec/20/2022 at 23:02:50
+The average game index is: 1212.67
+seth's average elo when playing chrisdoesit: 1607.48
+chrisdoesit's average elo when playing seth: 1363.91
+Average Elo Differential: 243.571
+seth averages 8.333 runs per game (25 total)
+chrisdoesit averages 2.667 runs per game (8 total)
+Total Run Differential: 17
+
+seth has played DoubleTay 2 times and has won 100% (2 out of 2)
+seth's first match against DoubleTay was on Dec/17/2022 at 01:32:11 and their most recent game was on Dec/17/2022 at 15:06:09
+The average game index is: 1179
+seth's average elo when playing DoubleTay: 1616.67
+DoubleTay's average elo when playing seth: 1243.01
+Average Elo Differential: 373.663
+seth averages 12 runs per game (24 total)
+DoubleTay averages 1 runs per game (2 total)
+Total Run Differential: 22
+
+seth has played Kaui 3 times and has won 100% (3 out of 3)
+seth's first match against Kaui was on Dec/19/2022 at 01:16:57 and their most recent game was on Dec/22/2022 at 21:20:27
+The average game index is: 1294.33
+seth's average elo when playing Kaui: 1585.97
+Kaui's average elo when playing seth: 1136.28
+Average Elo Differential: 449.698
+seth averages 11.67 runs per game (35 total)
+Kaui averages 4 runs per game (12 total)
+Total Run Differential: 23
+
+seth has played Cornman 9 times and has won 100% (9 out of 9)
+seth's first match against Cornman was on Dec/20/2022 at 16:32:16 and their most recent game was on Feb/10/2023 at 22:39:41
+The average game index is: 1958
+seth's average elo when playing Cornman: 1768.35
+Cornman's average elo when playing seth: 1228.24
+Average Elo Differential: 540.112
+seth averages 12.11 runs per game (109 total)
+Cornman averages 3 runs per game (27 total)
+Total Run Differential: 82
+
+seth has played Muffin💜💚💜 1 times and has won 100% (1 out of 1)
+seth's first match against Muffin💜💚💜 was on Dec/20/2022 at 22:05:20 and their most recent game was on Dec/20/2022 at 22:05:20
+The average game index is: 1305
+seth's average elo when playing Muffin💜💚💜: 1573.94
+Muffin💜💚💜's average elo when playing seth: 1168.55
+Average Elo Differential: 405.397
+seth averages 11 runs per game (11 total)
+Muffin💜💚💜 averages 0 runs per game (0 total)
+Total Run Differential: 11
+
+seth has played AoZora 2 times and has won 100% (2 out of 2)
+seth's first match against AoZora was on Dec/22/2022 at 22:17:13 and their most recent game was on Jan/05/2023 at 21:15:06
+The average game index is: 1493.5
+seth's average elo when playing AoZora: 1621.92
+AoZora's average elo when playing seth: 1459.14
+Average Elo Differential: 162.781
+seth averages 11 runs per game (22 total)
+AoZora averages 0.5 runs per game (1 total)
+Total Run Differential: 21
+
+seth has played Evil_Walrus 3 times and has won 66.67% (2 out of 3)
+seth's first match against Evil_Walrus was on Dec/23/2022 at 23:12:40 and their most recent game was on Dec/24/2022 at 23:34:59
+The average game index is: 1392
+seth's average elo when playing Evil_Walrus: 1574.85
+Evil_Walrus's average elo when playing seth: 1570.93
+Average Elo Differential: 3.9131
+seth averages 5.667 runs per game (17 total)
+Evil_Walrus averages 3.667 runs per game (11 total)
+Total Run Differential: 6
+
+seth has played Balamb Transfer 3 times and has won 33.33% (1 out of 3)
+seth's first match against Balamb Transfer was on Dec/28/2022 at 16:12:56 and their most recent game was on Jan/31/2023 at 21:25:11
+The average game index is: 1810
+seth's average elo when playing Balamb Transfer: 1682.98
+Balamb Transfer's average elo when playing seth: 1856.13
+Average Elo Differential: -173.153
+seth averages 7 runs per game (21 total)
+Balamb Transfer averages 6.333 runs per game (19 total)
+Total Run Differential: 2
+
+seth has played T3RIY4KI 1 times and has won 100% (1 out of 1)
+seth's first match against T3RIY4KI was on Dec/28/2022 at 16:35:30 and their most recent game was on Dec/28/2022 at 16:35:30
+The average game index is: 1485
+seth's average elo when playing T3RIY4KI: 1568.31
+T3RIY4KI's average elo when playing seth: 1532.91
+Average Elo Differential: 35.4027
+seth averages 11 runs per game (11 total)
+T3RIY4KI averages 1 runs per game (1 total)
+Total Run Differential: 10
+
+seth has played ChrisToasty 1 times and has won 0% (0 out of 1)
+seth's first match against ChrisToasty was on Jan/03/2023 at 15:39:07 and their most recent game was on Jan/03/2023 at 15:39:07
+The average game index is: 1579
+seth's average elo when playing ChrisToasty: 1668.57
+ChrisToasty's average elo when playing seth: 1957.9
+Average Elo Differential: -289.333
+seth averages 1 runs per game (1 total)
+ChrisToasty averages 13 runs per game (13 total)
+Total Run Differential: -12
+
+seth has played Boomerang-Bro 3 times and has won 0% (0 out of 3)
+seth's first match against Boomerang-Bro was on Jan/03/2023 at 16:12:45 and their most recent game was on Feb/08/2023 at 20:55:14
+The average game index is: 2029.67
+seth's average elo when playing Boomerang-Bro: 1766.39
+Boomerang-Bro's average elo when playing seth: 1858.14
+Average Elo Differential: -91.7482
+seth averages 6.333 runs per game (19 total)
+Boomerang-Bro averages 8.667 runs per game (26 total)
+Total Run Differential: -7
+
+seth has played brotherquang 15 times and has won 100% (15 out of 15)
+seth's first match against brotherquang was on Jan/05/2023 at 22:22:27 and their most recent game was on Feb/18/2023 at 21:32:56
+The average game index is: 1918.8
+seth's average elo when playing brotherquang: 1758.5
+brotherquang's average elo when playing seth: 1206.71
+Average Elo Differential: 551.788
+seth averages 9.8 runs per game (147 total)
+brotherquang averages 0.6 runs per game (9 total)
+Total Run Differential: 138
+
+seth has played Jujumon 1 times and has won 100% (1 out of 1)
+seth's first match against Jujumon was on Jan/14/2023 at 13:50:40 and their most recent game was on Jan/14/2023 at 13:50:40
+The average game index is: 1805
+seth's average elo when playing Jujumon: 1675.3
+Jujumon's average elo when playing seth: 1410.39
+Average Elo Differential: 264.904
+seth averages 11 runs per game (11 total)
+Jujumon averages 0 runs per game (0 total)
+Total Run Differential: 11
+
+seth has played MrF4Speed 2 times and has won 100% (2 out of 2)
+seth's first match against MrF4Speed was on Jan/16/2023 at 00:20:18 and their most recent game was on Jan/17/2023 at 00:01:41
+The average game index is: 1849
+seth's average elo when playing MrF4Speed: 1729.4
+MrF4Speed's average elo when playing seth: 1368.88
+Average Elo Differential: 360.516
+seth averages 11 runs per game (22 total)
+MrF4Speed averages 3 runs per game (6 total)
+Total Run Differential: 16
+
+seth has played Blonde Nu FGC 1 times and has won 100% (1 out of 1)
+seth's first match against Blonde Nu FGC was on Jan/20/2023 at 23:26:22 and their most recent game was on Jan/20/2023 at 23:26:22
+The average game index is: 1927
+seth's average elo when playing Blonde Nu FGC: 1796.46
+Blonde Nu FGC's average elo when playing seth: 1208.25
+Average Elo Differential: 588.211
+seth averages 10 runs per game (10 total)
+Blonde Nu FGC averages 0 runs per game (0 total)
+Total Run Differential: 10
+
+seth has played Animal People 2 times and has won 100% (2 out of 2)
+seth's first match against Animal People was on Jan/22/2023 at 01:39:43 and their most recent game was on Jan/25/2023 at 10:57:42
+The average game index is: 1968.5
+seth's average elo when playing Animal People: 1830.6
+Animal People's average elo when playing seth: 1331.78
+Average Elo Differential: 498.819
+seth averages 10.5 runs per game (21 total)
+Animal People averages 0 runs per game (0 total)
+Total Run Differential: 21
+
+seth has played BJ44 3 times and has won 100% (3 out of 3)
+seth's first match against BJ44 was on Jan/22/2023 at 14:17:38 and their most recent game was on Feb/02/2023 at 17:17:14
+The average game index is: 2032
+seth's average elo when playing BJ44: 1808.16
+BJ44's average elo when playing seth: 1387.12
+Average Elo Differential: 421.039
+seth averages 10.67 runs per game (32 total)
+BJ44 averages 3.667 runs per game (11 total)
+Total Run Differential: 21
+
+seth has played Bryan (shyguy) 1 times and has won 100% (1 out of 1)
+seth's first match against Bryan (shyguy) was on Jan/25/2023 at 23:31:18 and their most recent game was on Jan/25/2023 at 23:31:18
+The average game index is: 2007
+seth's average elo when playing Bryan (shyguy): 1831.76
+Bryan (shyguy)'s average elo when playing seth: 1255.7
+Average Elo Differential: 576.06
+seth averages 6 runs per game (6 total)
+Bryan (shyguy) averages 0 runs per game (0 total)
+Total Run Differential: 6
+
+seth has played dAVID 4 times and has won 100% (4 out of 4)
+seth's first match against dAVID was on Jan/26/2023 at 23:24:53 and their most recent game was on Feb/04/2023 at 13:52:19
+The average game index is: 2104
+seth's average elo when playing dAVID: 1825.3
+dAVID's average elo when playing seth: 1154.7
+Average Elo Differential: 670.597
+seth averages 10 runs per game (40 total)
+dAVID averages 0 runs per game (0 total)
+Total Run Differential: 40
+
+seth has played Whael 2 times and has won 100% (2 out of 2)
+seth's first match against Whael was on Jan/27/2023 at 00:52:46 and their most recent game was on Feb/02/2023 at 21:27:07
+The average game index is: 2113
+seth's average elo when playing Whael: 1814.19
+Whael's average elo when playing seth: 1074.23
+Average Elo Differential: 739.959
+seth averages 13 runs per game (26 total)
+Whael averages 0 runs per game (0 total)
+Total Run Differential: 26
+
+seth has played offbeatobject 1 times and has won 100% (1 out of 1)
+seth's first match against offbeatobject was on Feb/03/2023 at 23:41:26 and their most recent game was on Feb/03/2023 at 23:41:26
+The average game index is: 2224
+seth's average elo when playing offbeatobject: 1772.16
+offbeatobject's average elo when playing seth: 1396.44
+Average Elo Differential: 375.716
+seth averages 11 runs per game (11 total)
+offbeatobject averages 0 runs per game (0 total)
+Total Run Differential: 11
+
+seth has played Crazzy 5 times and has won 40% (2 out of 5)
+seth's first match against Crazzy was on Feb/05/2023 at 18:08:46 and their most recent game was on Feb/14/2023 at 01:03:51
+The average game index is: 2363.4
+seth's average elo when playing Crazzy: 1848.94
+Crazzy's average elo when playing seth: 1904.25
+Average Elo Differential: -55.3122
+seth averages 4.8 runs per game (24 total)
+Crazzy averages 6.6 runs per game (33 total)
+Total Run Differential: -9
+
+seth has played Uno 1 times and has won 100% (1 out of 1)
+seth's first match against Uno was on Feb/11/2023 at 14:45:59 and their most recent game was on Feb/11/2023 at 14:45:59
+The average game index is: 2434
+seth's average elo when playing Uno: 1824.12
+Uno's average elo when playing seth: 1328.91
+Average Elo Differential: 495.213
+seth averages 15 runs per game (15 total)
+Uno averages 2 runs per game (2 total)
+Total Run Differential: 13
+
+seth has played rayveean 1 times and has won 100% (1 out of 1)
+seth's first match against rayveean was on Feb/12/2023 at 00:12:23 and their most recent game was on Feb/12/2023 at 00:12:23
+The average game index is: 2444
+seth's average elo when playing rayveean: 1853.32
+rayveean's average elo when playing seth: 1694.24
+Average Elo Differential: 159.085
+seth averages 11 runs per game (11 total)
+rayveean averages 1 runs per game (1 total)
+Total Run Differential: 10
+
