@@ -2,7 +2,7 @@
 Parses MSSB log sheets into stats
 
 Download both the main.cpp and Game.h files or copy them into your ide.
-free online ide here: https://www.onlinegdb.com/
+free online ide here: https://www.onlinegdb.com/ (no account needed) or https://replit.com/ (I think account needed)
 
 To use:
 Copy and paste the entire stars off/on logs spreadsheet into an input text file.
