@@ -99,6 +99,8 @@ void writeInfo(ofstream& outputFile, double myWins[], string opNames[], double o
   outputFile << endl << endl << endl;
 
   outputFile << "The current average index is " << totalGameCount/2 << endl << endl;
+
+  outputFile << "Player " << playerName << " has played " << opponentCount << " different opponents.\n\n";
   
   for (int i = 0; i < opponentCount; i++){
     outputFile << playerName << " has played " << opNames[i] << " " << myWins[i] + opWins[i] << " times and has won " << setprecision(4) << 100 * myWins[i] / (myWins[i] + opWins[i]) << "% (" << myWins[i] << " out of " << myWins[i] + opWins[i] << ")\n";
