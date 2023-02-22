@@ -14,6 +14,8 @@
 
 using namespace std;
 
+const int MAX_ARRAY_SIZE = 200; //must be greater than the number of distinct opponents you've played against
+
 void readFile(ifstream &inputFile, double myWins[], string opNames[], double opWins[], string playerName, int& opponentCount, vector <Game*> games[], double& totalGameCount) {
   string line;
   getline(inputFile, line);
@@ -146,10 +148,10 @@ int main() {
   ifstream inputFile;
   ofstream outputFile;
   
-  double myWins[3000] = {0};
-  string opNames[3000];
-  double opWins[3000] = {0};
-  vector <Game*> games[3000];
+  double myWins[MAX_ARRAY_SIZE] = {0};
+  string opNames[MAX_ARRAY_SIZE];
+  double opWins[MAX_ARRAY_SIZE] = {0};
+  vector <Game*> games[MAX_ARRAY_SIZE];
   int numOpponents = 0;
   string playerName;
   double totalGameCount = 0;
