@@ -184,15 +184,15 @@ int main() {
   
 
   std::cout << "Enter input File Name: ";
-  std::cin >> filename;
+  getline(cin, filename);
   inputFile.open(filename);
 
   std::cout << "Enter output File Name: ";
-  std::cin >> filename;
+  getline(cin, filename);
   outputFile.open(filename);
 
   std::cout << "Enter Player Name: ";
-  std::cin >> playerName;
+  getline(cin, playerName);
 
   readFile(inputFile, myWins, opNames, opWins, playerName, numOpponents, games, totalGameCount);
   sortByMostGamesPlayed(myWins, opNames, opWins, numOpponents, games);
