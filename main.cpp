@@ -142,6 +142,32 @@ void writeInfo(ofstream& outputFile, double myWins[], string opNames[], double o
   }
 }
 
+void sortByMostGamesPlayed(double myWins[], string opNames[], double opWins[], int& opponentCount, vector <Game*> games[]){
+  for(int i = 0; i < opponentCount; i++){
+    int max = games[i].size();
+    int maxIndex = i;
+    for (int j = i+1; j < opponentCount; j++){
+      if(games[j].size() > max){
+        max = games[j].size();
+        maxIndex = j;
+      }
+    }
+    double myWinsTemp = myWins[i];
+    string opNamesTemp = opNames[i];
+    double opWinsTemp = opWins[i];
+    vector <Game*> gamesTemp = games[i];
+
+    myWins[i] = myWins[maxIndex];
+    opNames[i] = opNames[maxIndex];
+    opWins[i] = opWins[maxIndex];
+    games[i] = games[maxIndex];
+
+    myWins[maxIndex] = myWinsTemp;
+    opNames[maxIndex] = opNamesTemp;
+    opWins[maxIndex] = opWinsTemp;
+    games[maxIndex] = gamesTemp;
+  }
+}
 
 int main() {
   std::string filename;
@@ -169,5 +195,6 @@ int main() {
   std::cin >> playerName;
 
   readFile(inputFile, myWins, opNames, opWins, playerName, numOpponents, games, totalGameCount);
+  sortByMostGamesPlayed(myWins, opNames, opWins, numOpponents, games);
   writeInfo(outputFile, myWins, opNames, opWins, playerName, numOpponents, games, totalGameCount);
 }
